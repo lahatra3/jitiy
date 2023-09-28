@@ -1,0 +1,13 @@
+{
+  "name": "jitiy",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
